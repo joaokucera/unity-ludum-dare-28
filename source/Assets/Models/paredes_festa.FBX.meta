@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 4c974de229761034b9ebfbc02a4041d5
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: back
+    100002: back_
+    100004: Box022
+    100006: Box023
+    100008: caixa
+    100010: ceiling
+    100012: floor
+    100014: floor 1
+    100016: front
+    100018: front_
+    100020: left
+    100022: left_
+    100024: //RootNode
+    100026: portacaixa
+    100028: right
+    100030: right_
+    100032: top
+    100034: vidroscaixa
+    400000: back
+    400002: back_
+    400004: Box022
+    400006: Box023
+    400008: caixa
+    400010: ceiling
+    400012: floor
+    400014: floor 1
+    400016: front
+    400018: front_
+    400020: left
+    400022: left_
+    400024: //RootNode
+    400026: portacaixa
+    400028: right
+    400030: right_
+    400032: top
+    400034: vidroscaixa
+    2300000: back
+    2300002: back_
+    2300004: Box022
+    2300006: Box023
+    2300008: caixa
+    2300010: ceiling
+    2300012: floor
+    2300014: floor 1
+    2300016: front
+    2300018: front_
+    2300020: left
+    2300022: left_
+    2300024: portacaixa
+    2300026: right
+    2300028: right_
+    2300030: top
+    2300032: vidroscaixa
+    3300000: back
+    3300002: back_
+    3300004: Box022
+    3300006: Box023
+    3300008: caixa
+    3300010: ceiling
+    3300012: floor
+    3300014: floor 1
+    3300016: front
+    3300018: front_
+    3300020: left
+    3300022: left_
+    3300024: portacaixa
+    3300026: right
+    3300028: right_
+    3300030: top
+    3300032: vidroscaixa
+    4300000: caixa
+    4300002: floor
+    4300004: front
+    4300006: right
+    4300008: left
+    4300010: ceiling
+    4300012: back
+    4300014: floor
+    4300016: Box022
+    4300018: Box023
+    4300020: right_
+    4300022: left_
+    4300024: top
+    4300026: front_
+    4300028: back_
+    4300030: vidroscaixa
+    4300032: portacaixa
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

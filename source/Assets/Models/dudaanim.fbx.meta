@@ -1,0 +1,1065 @@
+fileFormatVersion: 2
+guid: d1e22aa1fb053cd49b8d8b8c93c77c47
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: girl:head
+    100004: girl:Plane005
+    100006: girl:polySurface10
+    100008: girl:polySurface11
+    100010: girl:polySurface12
+    100012: girl:polySurface13
+    100014: girl:polySurface14
+    100016: girl:polySurface15
+    100018: girl:polySurface16
+    100020: girl:polySurface17
+    100022: girl:polySurface18
+    100024: girl:polySurface19
+    100026: girl:polySurface20
+    100028: girl:polySurface3
+    100030: girl:polySurface4
+    100032: girl:polySurface5
+    100034: girl:polySurface6
+    100036: girl:polySurface7
+    100038: girl:polySurface8
+    100040: girl:polySurface9
+    100042: girl:transform1
+    100044: girl:transform10
+    100046: girl:transform11
+    100048: girl:transform12
+    100050: girl:transform13
+    100052: girl:transform14
+    100054: girl:transform15
+    100056: girl:transform16
+    100058: girl:transform17
+    100060: girl:transform18
+    100062: girl:transform2
+    100064: girl:transform3
+    100066: girl:transform4
+    100068: girl:transform5
+    100070: girl:transform6
+    100072: girl:transform7
+    100074: girl:transform8
+    100076: girl:transform9
+    100078: mixamorig:Head
+    100080: mixamorig:HeadTop_End
+    100082: mixamorig:Hips
+    100084: mixamorig:LeftArm
+    100086: mixamorig:LeftFoot
+    100088: mixamorig:LeftForeArm
+    100090: mixamorig:LeftHand
+    100092: mixamorig:LeftHandIndex1
+    100094: mixamorig:LeftHandIndex2
+    100096: mixamorig:LeftHandIndex3
+    100098: mixamorig:LeftHandIndex4
+    100100: mixamorig:LeftLeg
+    100102: mixamorig:LeftShoulder
+    100104: mixamorig:LeftToe_End
+    100106: mixamorig:LeftToeBase
+    100108: mixamorig:LeftUpLeg
+    100110: mixamorig:Neck
+    100112: mixamorig:RightArm
+    100114: mixamorig:RightFoot
+    100116: mixamorig:RightForeArm
+    100118: mixamorig:RightHand
+    100120: mixamorig:RightHandIndex1
+    100122: mixamorig:RightHandIndex2
+    100124: mixamorig:RightHandIndex3
+    100126: mixamorig:RightHandIndex4
+    100128: mixamorig:RightLeg
+    100130: mixamorig:RightShoulder
+    100132: mixamorig:RightToe_End
+    100134: mixamorig:RightToeBase
+    100136: mixamorig:RightUpLeg
+    100138: mixamorig:Spine
+    100140: mixamorig:Spine1
+    100142: mixamorig:Spine2
+    100144: polySurface1
+    100146: polySurface10
+    100148: polySurface11
+    100150: polySurface12
+    100152: polySurface13
+    100154: polySurface14
+    100156: polySurface2
+    100158: polySurface3
+    100160: polySurface4
+    100162: polySurface5
+    100164: polySurface6
+    100166: polySurface7
+    100168: polySurface8
+    100170: polySurface9
+    100172: transform1
+    400000: //RootNode
+    400002: girl:head
+    400004: girl:Plane005
+    400006: girl:polySurface10
+    400008: girl:polySurface11
+    400010: girl:polySurface12
+    400012: girl:polySurface13
+    400014: girl:polySurface14
+    400016: girl:polySurface15
+    400018: girl:polySurface16
+    400020: girl:polySurface17
+    400022: girl:polySurface18
+    400024: girl:polySurface19
+    400026: girl:polySurface20
+    400028: girl:polySurface3
+    400030: girl:polySurface4
+    400032: girl:polySurface5
+    400034: girl:polySurface6
+    400036: girl:polySurface7
+    400038: girl:polySurface8
+    400040: girl:polySurface9
+    400042: girl:transform1
+    400044: girl:transform10
+    400046: girl:transform11
+    400048: girl:transform12
+    400050: girl:transform13
+    400052: girl:transform14
+    400054: girl:transform15
+    400056: girl:transform16
+    400058: girl:transform17
+    400060: girl:transform18
+    400062: girl:transform2
+    400064: girl:transform3
+    400066: girl:transform4
+    400068: girl:transform5
+    400070: girl:transform6
+    400072: girl:transform7
+    400074: girl:transform8
+    400076: girl:transform9
+    400078: mixamorig:Head
+    400080: mixamorig:HeadTop_End
+    400082: mixamorig:Hips
+    400084: mixamorig:LeftArm
+    400086: mixamorig:LeftFoot
+    400088: mixamorig:LeftForeArm
+    400090: mixamorig:LeftHand
+    400092: mixamorig:LeftHandIndex1
+    400094: mixamorig:LeftHandIndex2
+    400096: mixamorig:LeftHandIndex3
+    400098: mixamorig:LeftHandIndex4
+    400100: mixamorig:LeftLeg
+    400102: mixamorig:LeftShoulder
+    400104: mixamorig:LeftToe_End
+    400106: mixamorig:LeftToeBase
+    400108: mixamorig:LeftUpLeg
+    400110: mixamorig:Neck
+    400112: mixamorig:RightArm
+    400114: mixamorig:RightFoot
+    400116: mixamorig:RightForeArm
+    400118: mixamorig:RightHand
+    400120: mixamorig:RightHandIndex1
+    400122: mixamorig:RightHandIndex2
+    400124: mixamorig:RightHandIndex3
+    400126: mixamorig:RightHandIndex4
+    400128: mixamorig:RightLeg
+    400130: mixamorig:RightShoulder
+    400132: mixamorig:RightToe_End
+    400134: mixamorig:RightToeBase
+    400136: mixamorig:RightUpLeg
+    400138: mixamorig:Spine
+    400140: mixamorig:Spine1
+    400142: mixamorig:Spine2
+    400144: polySurface1
+    400146: polySurface10
+    400148: polySurface11
+    400150: polySurface12
+    400152: polySurface13
+    400154: polySurface14
+    400156: polySurface2
+    400158: polySurface3
+    400160: polySurface4
+    400162: polySurface5
+    400164: polySurface6
+    400166: polySurface7
+    400168: polySurface8
+    400170: polySurface9
+    400172: transform1
+    4300000: polySurface1
+    4300002: polySurface2
+    4300004: polySurface3
+    4300006: polySurface4
+    4300008: polySurface5
+    4300010: polySurface6
+    4300012: polySurface7
+    4300014: polySurface8
+    4300016: polySurface9
+    4300018: polySurface10
+    4300020: polySurface11
+    4300022: polySurface12
+    4300024: polySurface13
+    4300026: polySurface14
+    7400000: mixamo.com
+    7400002: Looking
+    7400004: Walking
+    7400006: Dancing
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: polySurface1
+    13700002: polySurface10
+    13700004: polySurface11
+    13700006: polySurface12
+    13700008: polySurface13
+    13700010: polySurface14
+    13700012: polySurface2
+    13700014: polySurface3
+    13700016: polySurface4
+    13700018: polySurface5
+    13700020: polySurface6
+    13700022: polySurface7
+    13700024: polySurface8
+    13700026: polySurface9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: mixamo.com
+      takeName: mixamo.com
+      firstFrame: 0
+      lastFrame: 1267
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: girl:head
+        weight: 1
+      - path: girl:head/girl:transform18
+        weight: 1
+      - path: girl:Plane005
+        weight: 1
+      - path: girl:Plane005/girl:transform17
+        weight: 1
+      - path: girl:polySurface3
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface4
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface4/girl:transform2
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface5
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface5/girl:transform3
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface6
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface6/girl:transform1
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface10
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface10/girl:transform6
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface11
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface11/girl:transform7
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface14
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface14/girl:transform12
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface15
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface15/girl:transform11
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface16
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface16/girl:transform10
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface17
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface17/girl:transform9
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface18
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface18/girl:transform16
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:transform8
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:transform5
+        weight: 1
+      - path: girl:polySurface8
+        weight: 1
+      - path: girl:polySurface8/girl:transform4
+        weight: 1
+      - path: girl:polySurface9
+        weight: 1
+      - path: girl:polySurface9/girl:transform15
+        weight: 1
+      - path: girl:polySurface13
+        weight: 1
+      - path: girl:polySurface13/girl:transform14
+        weight: 1
+      - path: girl:polySurface19
+        weight: 1
+      - path: girl:polySurface19/girl:transform13
+        weight: 1
+      - path: girl:polySurface20
+        weight: 1
+      - path: girl:polySurface20/polySurface1
+        weight: 1
+      - path: girl:polySurface20/polySurface2
+        weight: 1
+      - path: girl:polySurface20/polySurface3
+        weight: 1
+      - path: girl:polySurface20/polySurface4
+        weight: 1
+      - path: girl:polySurface20/polySurface5
+        weight: 1
+      - path: girl:polySurface20/polySurface6
+        weight: 1
+      - path: girl:polySurface20/polySurface7
+        weight: 1
+      - path: girl:polySurface20/polySurface8
+        weight: 1
+      - path: girl:polySurface20/polySurface9
+        weight: 1
+      - path: girl:polySurface20/polySurface10
+        weight: 1
+      - path: girl:polySurface20/polySurface11
+        weight: 1
+      - path: girl:polySurface20/polySurface12
+        weight: 1
+      - path: girl:polySurface20/polySurface13
+        weight: 1
+      - path: girl:polySurface20/polySurface14
+        weight: 1
+      - path: girl:polySurface20/transform1
+        weight: 1
+      - path: mixamorig:Hips
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg/mixamorig:LeftFoot
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg/mixamorig:LeftFoot/mixamorig:LeftToeBase
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg/mixamorig:LeftFoot/mixamorig:LeftToeBase/mixamorig:LeftToe_End
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg/mixamorig:RightFoot
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg/mixamorig:RightFoot/mixamorig:RightToeBase
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg/mixamorig:RightFoot/mixamorig:RightToeBase/mixamorig:RightToe_End
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandIndex1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandIndex1/mixamorig:LeftHandIndex2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandIndex1/mixamorig:LeftHandIndex2/mixamorig:LeftHandIndex3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandIndex1/mixamorig:LeftHandIndex2/mixamorig:LeftHandIndex3/mixamorig:LeftHandIndex4
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck/mixamorig:Head
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck/mixamorig:Head/mixamorig:HeadTop_End
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandIndex1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandIndex1/mixamorig:RightHandIndex2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandIndex1/mixamorig:RightHandIndex2/mixamorig:RightHandIndex3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandIndex1/mixamorig:RightHandIndex2/mixamorig:RightHandIndex3/mixamorig:RightHandIndex4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Looking
+      takeName: mixamo.com
+      firstFrame: 0
+      lastFrame: 114
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: girl:head
+        weight: 1
+      - path: girl:head/girl:transform18
+        weight: 1
+      - path: girl:Plane005
+        weight: 1
+      - path: girl:Plane005/girl:transform17
+        weight: 1
+      - path: girl:polySurface3
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface4
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface4/girl:transform2
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface5
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface5/girl:transform3
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface6
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface6/girl:transform1
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface10
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface10/girl:transform6
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface11
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface11/girl:transform7
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface14
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface14/girl:transform12
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface15
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface15/girl:transform11
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface16
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface16/girl:transform10
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface17
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface17/girl:transform9
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface18
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface18/girl:transform16
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:transform8
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:transform5
+        weight: 1
+      - path: girl:polySurface8
+        weight: 1
+      - path: girl:polySurface8/girl:transform4
+        weight: 1
+      - path: girl:polySurface9
+        weight: 1
+      - path: girl:polySurface9/girl:transform15
+        weight: 1
+      - path: girl:polySurface13
+        weight: 1
+      - path: girl:polySurface13/girl:transform14
+        weight: 1
+      - path: girl:polySurface19
+        weight: 1
+      - path: girl:polySurface19/girl:transform13
+        weight: 1
+      - path: girl:polySurface20
+        weight: 1
+      - path: girl:polySurface20/polySurface1
+        weight: 1
+      - path: girl:polySurface20/polySurface2
+        weight: 1
+      - path: girl:polySurface20/polySurface3
+        weight: 1
+      - path: girl:polySurface20/polySurface4
+        weight: 1
+      - path: girl:polySurface20/polySurface5
+        weight: 1
+      - path: girl:polySurface20/polySurface6
+        weight: 1
+      - path: girl:polySurface20/polySurface7
+        weight: 1
+      - path: girl:polySurface20/polySurface8
+        weight: 1
+      - path: girl:polySurface20/polySurface9
+        weight: 1
+      - path: girl:polySurface20/polySurface10
+        weight: 1
+      - path: girl:polySurface20/polySurface11
+        weight: 1
+      - path: girl:polySurface20/polySurface12
+        weight: 1
+      - path: girl:polySurface20/polySurface13
+        weight: 1
+      - path: girl:polySurface20/polySurface14
+        weight: 1
+      - path: girl:polySurface20/transform1
+        weight: 1
+      - path: mixamorig:Hips
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg/mixamorig:LeftFoot
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg/mixamorig:LeftFoot/mixamorig:LeftToeBase
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg/mixamorig:LeftFoot/mixamorig:LeftToeBase/mixamorig:LeftToe_End
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg/mixamorig:RightFoot
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg/mixamorig:RightFoot/mixamorig:RightToeBase
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg/mixamorig:RightFoot/mixamorig:RightToeBase/mixamorig:RightToe_End
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandIndex1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandIndex1/mixamorig:LeftHandIndex2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandIndex1/mixamorig:LeftHandIndex2/mixamorig:LeftHandIndex3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandIndex1/mixamorig:LeftHandIndex2/mixamorig:LeftHandIndex3/mixamorig:LeftHandIndex4
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck/mixamorig:Head
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck/mixamorig:Head/mixamorig:HeadTop_End
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandIndex1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandIndex1/mixamorig:RightHandIndex2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandIndex1/mixamorig:RightHandIndex2/mixamorig:RightHandIndex3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandIndex1/mixamorig:RightHandIndex2/mixamorig:RightHandIndex3/mixamorig:RightHandIndex4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Walking
+      takeName: mixamo.com
+      firstFrame: 124
+      lastFrame: 177
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: girl:head
+        weight: 1
+      - path: girl:head/girl:transform18
+        weight: 1
+      - path: girl:Plane005
+        weight: 1
+      - path: girl:Plane005/girl:transform17
+        weight: 1
+      - path: girl:polySurface3
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface4
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface4/girl:transform2
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface5
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface5/girl:transform3
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface6
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface6/girl:transform1
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface10
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface10/girl:transform6
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface11
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface11/girl:transform7
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface14
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface14/girl:transform12
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface15
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface15/girl:transform11
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface16
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface16/girl:transform10
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface17
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface17/girl:transform9
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface18
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface18/girl:transform16
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:transform8
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:transform5
+        weight: 1
+      - path: girl:polySurface8
+        weight: 1
+      - path: girl:polySurface8/girl:transform4
+        weight: 1
+      - path: girl:polySurface9
+        weight: 1
+      - path: girl:polySurface9/girl:transform15
+        weight: 1
+      - path: girl:polySurface13
+        weight: 1
+      - path: girl:polySurface13/girl:transform14
+        weight: 1
+      - path: girl:polySurface19
+        weight: 1
+      - path: girl:polySurface19/girl:transform13
+        weight: 1
+      - path: girl:polySurface20
+        weight: 1
+      - path: girl:polySurface20/polySurface1
+        weight: 1
+      - path: girl:polySurface20/polySurface2
+        weight: 1
+      - path: girl:polySurface20/polySurface3
+        weight: 1
+      - path: girl:polySurface20/polySurface4
+        weight: 1
+      - path: girl:polySurface20/polySurface5
+        weight: 1
+      - path: girl:polySurface20/polySurface6
+        weight: 1
+      - path: girl:polySurface20/polySurface7
+        weight: 1
+      - path: girl:polySurface20/polySurface8
+        weight: 1
+      - path: girl:polySurface20/polySurface9
+        weight: 1
+      - path: girl:polySurface20/polySurface10
+        weight: 1
+      - path: girl:polySurface20/polySurface11
+        weight: 1
+      - path: girl:polySurface20/polySurface12
+        weight: 1
+      - path: girl:polySurface20/polySurface13
+        weight: 1
+      - path: girl:polySurface20/polySurface14
+        weight: 1
+      - path: girl:polySurface20/transform1
+        weight: 1
+      - path: mixamorig:Hips
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg/mixamorig:LeftFoot
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg/mixamorig:LeftFoot/mixamorig:LeftToeBase
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg/mixamorig:LeftFoot/mixamorig:LeftToeBase/mixamorig:LeftToe_End
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg/mixamorig:RightFoot
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg/mixamorig:RightFoot/mixamorig:RightToeBase
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg/mixamorig:RightFoot/mixamorig:RightToeBase/mixamorig:RightToe_End
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandIndex1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandIndex1/mixamorig:LeftHandIndex2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandIndex1/mixamorig:LeftHandIndex2/mixamorig:LeftHandIndex3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandIndex1/mixamorig:LeftHandIndex2/mixamorig:LeftHandIndex3/mixamorig:LeftHandIndex4
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck/mixamorig:Head
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck/mixamorig:Head/mixamorig:HeadTop_End
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandIndex1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandIndex1/mixamorig:RightHandIndex2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandIndex1/mixamorig:RightHandIndex2/mixamorig:RightHandIndex3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandIndex1/mixamorig:RightHandIndex2/mixamorig:RightHandIndex3/mixamorig:RightHandIndex4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Dancing
+      takeName: mixamo.com
+      firstFrame: 189
+      lastFrame: 540
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: girl:head
+        weight: 1
+      - path: girl:head/girl:transform18
+        weight: 1
+      - path: girl:Plane005
+        weight: 1
+      - path: girl:Plane005/girl:transform17
+        weight: 1
+      - path: girl:polySurface3
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface4
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface4/girl:transform2
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface5
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface5/girl:transform3
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface6
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface6/girl:transform1
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface10
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface10/girl:transform6
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface11
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface11/girl:transform7
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface14
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface14/girl:transform12
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface15
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface15/girl:transform11
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface16
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface16/girl:transform10
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface17
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface17/girl:transform9
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface18
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:polySurface18/girl:transform16
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:polySurface12/girl:transform8
+        weight: 1
+      - path: girl:polySurface3/girl:polySurface7/girl:transform5
+        weight: 1
+      - path: girl:polySurface8
+        weight: 1
+      - path: girl:polySurface8/girl:transform4
+        weight: 1
+      - path: girl:polySurface9
+        weight: 1
+      - path: girl:polySurface9/girl:transform15
+        weight: 1
+      - path: girl:polySurface13
+        weight: 1
+      - path: girl:polySurface13/girl:transform14
+        weight: 1
+      - path: girl:polySurface19
+        weight: 1
+      - path: girl:polySurface19/girl:transform13
+        weight: 1
+      - path: girl:polySurface20
+        weight: 1
+      - path: girl:polySurface20/polySurface1
+        weight: 1
+      - path: girl:polySurface20/polySurface2
+        weight: 1
+      - path: girl:polySurface20/polySurface3
+        weight: 1
+      - path: girl:polySurface20/polySurface4
+        weight: 1
+      - path: girl:polySurface20/polySurface5
+        weight: 1
+      - path: girl:polySurface20/polySurface6
+        weight: 1
+      - path: girl:polySurface20/polySurface7
+        weight: 1
+      - path: girl:polySurface20/polySurface8
+        weight: 1
+      - path: girl:polySurface20/polySurface9
+        weight: 1
+      - path: girl:polySurface20/polySurface10
+        weight: 1
+      - path: girl:polySurface20/polySurface11
+        weight: 1
+      - path: girl:polySurface20/polySurface12
+        weight: 1
+      - path: girl:polySurface20/polySurface13
+        weight: 1
+      - path: girl:polySurface20/polySurface14
+        weight: 1
+      - path: girl:polySurface20/transform1
+        weight: 1
+      - path: mixamorig:Hips
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg/mixamorig:LeftFoot
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg/mixamorig:LeftFoot/mixamorig:LeftToeBase
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg/mixamorig:LeftFoot/mixamorig:LeftToeBase/mixamorig:LeftToe_End
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg/mixamorig:RightFoot
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg/mixamorig:RightFoot/mixamorig:RightToeBase
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg/mixamorig:RightFoot/mixamorig:RightToeBase/mixamorig:RightToe_End
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandIndex1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandIndex1/mixamorig:LeftHandIndex2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandIndex1/mixamorig:LeftHandIndex2/mixamorig:LeftHandIndex3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandIndex1/mixamorig:LeftHandIndex2/mixamorig:LeftHandIndex3/mixamorig:LeftHandIndex4
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck/mixamorig:Head
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck/mixamorig:Head/mixamorig:HeadTop_End
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandIndex1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandIndex1/mixamorig:RightHandIndex2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandIndex1/mixamorig:RightHandIndex2/mixamorig:RightHandIndex3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandIndex1/mixamorig:RightHandIndex2/mixamorig:RightHandIndex3/mixamorig:RightHandIndex4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0250000004
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 
